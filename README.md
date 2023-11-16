@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicholas Ali</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicholasali1&label=Profile%20views&color=0e75b6&style=flat" alt="nicholasali1" /> </p>
-<h3 align="center">A computer science student passionate in Data Science, Machine Learning, Artificial Intelligence</h3>
+<h3 align="center">A developer passionate in Data Science, Machine Learning, Artificial Intelligence</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholasali2004/) 
