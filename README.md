@@ -11,5 +11,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nicholasali1&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nicholasali1&icon=0&color=8)](https://visitcount.itsvg.in)
 
