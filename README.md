@@ -9,24 +9,6 @@
   <em>Building intelligent solutions through code | From proteins to pixels</em>
 </p>
 
----
-
-## 🎯 What I'm Working On
-
-- 🧬 Advanced protein folding and bioinformatics research
-- 🤖 Deep learning models for computer vision applications
-- 🌐 Full-stack web applications with modern frameworks
-- 🎮 Game development and computer graphics
-
-## 💼 Professional Experience
-
-- **JP Morgan Chase & Co.** - Software Engineering Intern
-  - Completed data visualization and technical analysis tasks
-- **Heartr** - Machine Learning Engineer
-  - Built out machine learning pipelines that can match two users together using embeddings and recomendation engines 
-
----
-
 <p align="center">
   <em>💡 Open to collaboration on AI/ML projects and full-stack development opportunities</em>
 </p>
